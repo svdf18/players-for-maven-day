@@ -31,7 +31,6 @@ class PlayerRepositoryTest {
         assertTrue(pNew.getId()>0);
     }
 
-    @Test
     public void allwaysFail(){
         assertTrue(false);
     }
