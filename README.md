@@ -1,1 +1,1 @@
-READ ME
+[![Build and deploy JAR app to Azure Web App - players-for-maven-app](https://github.com/svdf18/players-for-maven-day/actions/workflows/main_players-for-maven-app.yml/badge.svg)](https://github.com/svdf18/players-for-maven-day/actions/workflows/main_players-for-maven-app.yml)
