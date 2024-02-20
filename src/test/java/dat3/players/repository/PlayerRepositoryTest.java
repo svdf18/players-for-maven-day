@@ -35,3 +35,5 @@ class PlayerRepositoryTest {
         assertTrue(false);
     }
     }
+
+    //this is an always fail test
